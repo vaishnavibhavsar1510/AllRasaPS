@@ -8,6 +8,7 @@ Hereby follow simple steps to find the Rasas based on the input values of the cr
 **Step 1**:Open the terminal and run the following command
            Commmand:** streamlit run AppPS.py**
 
+
 **Step 2**: Input the values of the given compounds in the Ayurvedic herb after detecting from the sensor and algorithm will work for its classification into Rasa(taste type)(there are major 5 types of Rasa).
 
 
@@ -18,6 +19,7 @@ Rasas Type: 1. Madhura (Sweet)
             3. Lavana (Salty)
             4. Katu (Pungent)
             5. Tikta (Bitter)
+            
 **Step 3**: Click On Predict to get the output as a graph .
 ![image](https://github.com/vaishnavibhavsar1510/AllRasaPS/assets/111491441/1e499ca1-af2e-4ecf-b4cb-e8ef8bea52ff)
 
