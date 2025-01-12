@@ -5,7 +5,7 @@
 Hereby follow simple steps to find the Rasas based on the input values of the crude herb:
 (Also the dataPS.csv is the database created from scratch and used for this classification)
 
-**Step 1**:Open the terminal and run the following command
+**Step 1**: Open the terminal and run the following command
            Commmand:** streamlit run AppPS.py**
 
 
